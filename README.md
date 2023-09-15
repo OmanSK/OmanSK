@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergey</h1>
-<h3 align="center">junior data scientist</h3>
-
-- 🌱 I’m currently learning **Airflow, MLFlow, Kubernetes, Grafana**
+<h3 align="center">data scientist</h3>
 
 - 📫 How to reach me **omancripe@gmail.com**
 
